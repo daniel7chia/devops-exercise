@@ -2,7 +2,7 @@ package com.sddevops.selenium_maven.eclipse;
 
 /**
  * Hello world!
- * 1st coding changes
+ * 2nd coding changes
  */
 public class App 
 {
