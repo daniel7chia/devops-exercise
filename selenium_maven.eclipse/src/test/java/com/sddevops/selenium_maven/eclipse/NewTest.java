@@ -2,6 +2,7 @@
 package com.sddevops.selenium_maven.eclipse;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.By;
